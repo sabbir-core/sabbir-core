@@ -19,7 +19,7 @@ I am currently pursuing my studies in a technical field (**EEE/Core Engineering*
 ### 🌐 Web Technologies (For Interactive Hobbies)
 - ![HTML5](https://shields.io)
 - ![CSS3](https://shields.io)
-
+https://i.postimg.cc/9FDDk1nJ/Screenshot-2026-07-19-16-35-45.png
 ---
 
 ## ⚡ What I Love Doing
